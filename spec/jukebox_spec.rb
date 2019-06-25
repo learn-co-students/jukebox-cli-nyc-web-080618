@@ -78,5 +78,6 @@ describe "CLI Jukebox" do
       expect(exit_output).to include("Goodbye")
     end
   end
+  
 end
 
